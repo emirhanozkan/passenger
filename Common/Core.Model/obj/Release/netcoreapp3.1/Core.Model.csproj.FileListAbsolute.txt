@@ -1,0 +1,9 @@
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\bin\Release\netcoreapp3.1\Core.Model.deps.json
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\bin\Release\netcoreapp3.1\Core.Model.dll
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\bin\Release\netcoreapp3.1\Core.Model.pdb
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\obj\Release\netcoreapp3.1\Core.Model.csprojAssemblyReference.cache
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\obj\Release\netcoreapp3.1\Core.Model.AssemblyInfoInputs.cache
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\obj\Release\netcoreapp3.1\Core.Model.AssemblyInfo.cs
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\obj\Release\netcoreapp3.1\Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\obj\Release\netcoreapp3.1\Core.Model.dll
+C:\Users\NETDIL\source\repos\gozen\Common\Core.Model\obj\Release\netcoreapp3.1\Core.Model.pdb
